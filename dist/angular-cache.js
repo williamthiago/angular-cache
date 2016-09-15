@@ -1108,4 +1108,3 @@
   return index;
 
 }));
-//# sourceMappingURL=angular-cache.js.map
